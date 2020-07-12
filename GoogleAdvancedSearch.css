@@ -1,0 +1,58 @@
+h1{
+    font-weight: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: firebrick;
+}
+.obj{
+    background-color: #f2f2f2;
+height: 40px;
+width: 200 px;
+
+}
+#submit{
+    background-color: steelblue;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+margin-left: 390px;
+margin-top: 25px;
+    cursor: pointer;
+}
+h2{
+    font-weight: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    columns: #333333;;
+    margin-top: 50px;
+}
+h3{
+    margin-left: 750px;
+    margin-top: -25px;
+    font-weight: 75;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: dimgray;
+}
+h4{
+    font-weight: 75;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: dimgray;
+margin-left: 750px;
+margin-top: -20px;
+    
+}
+label{
+    font-weight: 75;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: dimgray;
+}
+
+input[type=text]{
+    display: block;
+    width: 500px;
+margin-right: -300px ;
+}

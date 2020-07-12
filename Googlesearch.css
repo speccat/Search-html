@@ -1,0 +1,39 @@
+body {
+padding-left: 500px;
+padding-top: 100px;
+}
+input[type=text]{
+    width: 300px;
+    margin-left: -10px;
+    border: 3px solid ghostwhite;
+
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: ghostwhite;
+    border: none;
+    color: dimgray;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  h1{
+
+     color: dimgray;
+      margin-left:500px;
+      margin-top:-300px;
+      font-weight: 100;
+      font-size: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h2{
+
+    color: dimgray;
+     margin-left:650px;
+     margin-top:-25px;
+     font-weight: 100;
+     font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ 
